@@ -33,6 +33,7 @@ Here are the following tests which we have decided to include in our program:
 * Many more tests which cannot be outlined all on this README.
 
 ## How to run the program
+Reccomended to run on Mac's at 125% magnification for best viewing experience.
 In order to run the program copy the GitHub Repository to your desired integrate development environment. Navigate to the following:
 
  Backend -> src -> main -> PurePlateServer
